@@ -1,9 +1,10 @@
 # famous-planet
 @poiinar68
+
 <script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script>
 
 ## Buy Now
-> [wp_paypal button="https://paypal.com" name="paypal.me/lpaulramos" amount="1.00"]
+> [wp_paypal button="paypal.me/lpaulramos" name="paypal.me/lpaulramos" amount="1.00"]
 Add to Cart
 [wp_paypal button="cart" name="paypal.me/lpaulramos" amount="1.00"]
 View Cart
