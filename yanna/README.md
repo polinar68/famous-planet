@@ -14,9 +14,9 @@
 
 
 ## Buy Now
->>[wp_paypal button="paypal.me/lpaulramos" name="paypal.me/lpaulramos" amount="1.00"]
+>>[wp_paypal button="https://paypal.me/lpollyramos" name="paypal.me/lpollyramos" amount="1.00"]
 ##Add to Cart
->>[wp_paypal button="cart" name="https://paypal.me/lpollyramos68" amount="1.00"]
+>>[wp_paypal button="cart" name="https://paypal.me/lpollyramos" amount="1.00"]
 ##View Cart
 >>[wp_paypal button="viewcart"]
 ##Donation
