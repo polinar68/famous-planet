@@ -10,7 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-        new_window: true
+        new_window: false
       - label: Contact Us
         url: /contact
         style: secondary
