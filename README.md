@@ -5,7 +5,7 @@
 <subtitle>Playground for the git migration</subtitle>
 <link rel="alternate" type="text/html" href="https://208.43.231.11:4430/?p=playground.git;a=summary" />
 <link rel="self" type="application/atom+xml" href="https://208.43.231.11:4430/?p=playground.git;a=atom" />
-<id>https://208.43.231.11:4430/?p=playground.git</id>
+<id>https://208.43.231.11:4430/?p=playground.git</id>https://polinar68.github.io/cli-polly/
 <author><name>PHP Project</name></author>
 <icon>static/git-favicon.png</icon>
 <logo>static/git-logo.png</logo>
